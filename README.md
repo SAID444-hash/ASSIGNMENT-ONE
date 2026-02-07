@@ -25,7 +25,7 @@ It is a **single-page website** built using **HTML and CSS**, showcasing:
 
 - HTML  
 - CSS  
-
+Your site is live at https://said444-hash.github.io/ASSIGNMENT-ONE/
 &copy; 2026 Hassan Mohammed Said
 <img width="1716" height="1008" alt="Screenshot 2026-02-07 100956" src="https://github.com/user-attachments/assets/7835bcdc-a30a-4642-944c-9f50998c56d1" />
 <img width="1824" height="1072" alt="Screenshot 2026-02-07 102033" src="https://github.com/user-attachments/assets/e6a0eb09-1c6f-4f75-a980-db2e644ddca1" />
