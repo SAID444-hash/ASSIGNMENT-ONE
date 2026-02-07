@@ -27,3 +27,4 @@ It is a **single-page website** built using **HTML and CSS**, showcasing:
 - CSS  
 
 &copy; 2026 Hassan Mohammed Said
+<img width="1716" height="1008" alt="Screenshot 2026-02-07 100956" src="https://github.com/user-attachments/assets/7835bcdc-a30a-4642-944c-9f50998c56d1" />
