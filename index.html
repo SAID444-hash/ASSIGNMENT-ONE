@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hassan Mohammed Said - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa;
+            margin: 20px;
+        }
+
+        .box {
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 10px;
+            transition: background-color 0.3s;
+        }
+
+        .header { background-color: #00796b; color: white; }
+        .about { background-color: #c8e6c9; }
+        .skills { background-color: #fff9c4; }
+        .education { background-color: #bbdefb; }
+        .contact { background-color: #ffcdd2; }
+
+        .box:hover { background-color: #b2dfdb; }
+
+        h1, h2 { margin: 5px 0; }
+        p, ul, table, form { margin: 5px 0; }
+
+        ul { padding-left: 20px; }
+        table { width: 100%; border-collapse: collapse; }
+        table, th, td { border: 1px solid black; }
+        th, td { padding: 5px; text-align: left; font-size: 14px; }
+
+        input[type="text"], input[type="email"] { width: 95%; padding: 5px; margin: 3px 0; }
+        input[type="submit"] { padding: 5px 10px; margin-top: 5px; cursor: pointer; }
+        input[type="submit"]:hover { background-color: lightblue; }
+    </style>
+</head>
+<body>
+
+    <div class="box header">
+        <h1>Hassan Mohammed Said</h1>
+        <p>ICT Professional | Aspiring IT Manager</p>
+    </div>
+
+    <section class="box about">
+        <h2>About Me</h2>
+        <p>I am an ICT professional interested in technology, cybersecurity, and systems auditing.</p>
+    </section>
+
+    <section class="box skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>ICT Support</li>
+            <li>Networking</li>
+            <li>HTML Basics</li>
+            <li>Cybersecurity Fundamentals</li>
+        </ul>
+    </section>
+
+    <section class="box education">
+        <h2>Education</h2>
+        <table>
+            <tr><th>Course</th><th>Institution</th></tr>
+            <tr><td>Information Technology</td><td>Mount Kenya University</td></tr>
+        </table>
+    </section>
+
+    <section class="box contact">
+        <h2>Contact Form</h2>
+        <form>
+            <label>Name:</label><br><input type="text"><br>
+            <label>Email:</label><br><input type="email"><br>
+            <label>Gender:</label><br>
+            <input type="radio" name="gender"> Male
+            <input type="radio" name="gender"> Female<br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+
+    <p style="text-align:center;">&copy; 2026 Hassan Mohammed Said</p>
+
+</body>
+</html>
